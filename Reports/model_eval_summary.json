@@ -1,0 +1,8 @@
+{
+  "Model": "RandomForest (tuned)",
+  "ROC_AUC": 0.9999591738861706,
+  "AvgPrecision_PR_AUC": 0.9994124719899438,
+  "DefaultRate": 0.056933333333333336,
+  "TestSize": 6000,
+  "ThresholdUsed": 0.44
+}
