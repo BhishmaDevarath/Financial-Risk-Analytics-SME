@@ -27,6 +27,14 @@ This project delivers an end-to-end financial analytics solution that:
 ---
 
 ## 📊 Dashboard Preview
+### 1. Portfolio Summary
+![Portfolio Summary](./Power%20BI/Portfolio%20Summary.jpeg)
+
+### 2. Risk & Performance Insights
+![Risk & Performance Insights](./Power%20BI/Risk%20&%20Performance%20Insights.jpeg)
+
+### 3. Predictive Insights
+![Predictive Insights](./Power%20BI/Predictive%20Insights.jpeg)
 
 ---
 
@@ -58,10 +66,10 @@ This project delivers an end-to-end financial analytics solution that:
 
 ---
 
-## 🧠 Author
-**Aman Singh**  
-📍 Data Analytics & Risk Modeling Enthusiast  
-💼 Building real-world financial analytics solutions  
+## 📌 Author
+👤 **Aman Kumar Singh**  
+📧 amankrsingh1831@gmail.com  
+🔗 www.linkedin.com/in/aman-kumar-singh-3a3305387  
 
 ---
 
