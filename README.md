@@ -28,13 +28,13 @@ This project delivers an end-to-end financial analytics solution that:
 
 ## 📊 Dashboard Preview
 ### 1. Portfolio Summary
-![Portfolio Summary](./Power%20BI/Portfolio%20Summary.jpeg)
+![Portfolio_Summary](./Power%20BI/Portfolio_Summary.jpeg)
 
 ### 2. Risk & Performance Insights
-![Risk & Performance Insights](./Power%20BI/Risk%20&%20Performance%20Insights.jpeg)
+![Risk_&_Performance Insights](./Power%20BI/Risk_&_Performance_Insights.jpeg)
 
 ### 3. Predictive Insights
-![Predictive Insights](./Power%20BI/Predictive%20Insights.jpeg)
+![Predictive_Insights](./Power%20BI/Predictive_Insights.jpeg)
 
 ---
 
